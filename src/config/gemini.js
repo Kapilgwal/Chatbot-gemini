@@ -2,7 +2,7 @@
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from "@google/generative-ai";
 
 // Initialize GoogleGenerativeAI with your API key
-const apiKey = "AIzaSyDs9atm_z3q1UCwoWou2fYvTmjOYCYx53k";
+const apiKey = "";
 const genAI = new GoogleGenerativeAI({ apiKey });
 
 // Define the model configuration
